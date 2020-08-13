@@ -18,7 +18,7 @@
 
 - ✨ I'm a student willing to become a software engineer
 - 📘 Currently I am a student at [@Epitech](https://www.epitech.eu/)
-- 💻 I'm learning C++, C, JS, Python
+- 💻 I'm learning C++, C, JS, Python, VimScript and Shell Scripting
 - ⚡ Aside of programming I love: Piano, Guitar, accordeon, Horseback riding, Drawing etc...
 - 🥅 My goals for 2020 is to higly improve as a programmer and to contribute a lot to projects
 
@@ -27,9 +27,13 @@
 - 💬 Discord : Helife#8782
 
 **I am a Linux enthusiast :**
-- 💻 I made a custom Iso for arch : [download it](https://files.norech.com/iso/nolife/whythis/WhyThis_1.0-2020.08.03-x86_64.iso) or check the [source code](https://github.com/nolifedotsh/whythis.iso)
+- 💻 I made a custom Iso for arch : [download it here](https://files.norech.com/iso/nolife/whythis/WhyThis_1.0-2020.08.03-x86_64.iso) or check the source code below
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Heliferepo&repo=whythis.iso)](https://github.com/Heliferepo/whythis.iso)
+
 - 🌍 I also intend to become the first maintainer of a Arch mirror at Reunion Island in the few months
 - 💾 If you want me to work on a UNIX / Linux tty I can do so (as long as I have vim to edit text)</br>
+
 
 **Programming Languages and softwares that i use <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  :**
 
@@ -51,8 +55,7 @@
 
 **My GitHub Data :** 
 
-> 🏆 +681 Contributions in year 2020 
- > (Github stats shows only 228 as lot of them are in private :/)
+> 🏆 +686 Contributions in year 2020 
  > 
 > 💼 Opted to Hire
  > 
@@ -63,7 +66,17 @@
 > 📝 Added and deleted approximately 600.000 lines of code since I started Github
  >
 
-![Heliferepo's github stats](https://github-readme-stats.vercel.app/api?username=Heliferepo&show_icons=true&hide_border=true)
+
+<div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
+    <div style="display: inline-block;">
+        <img width="450" height="150" img align="left" alt="Harm's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Heliferepo&theme=buefy&show_icons=true&count_private=true&hide_border=true&hide=issues" class="responsive" />
+    </div>
+    <div style="display: inline-block;">
+        <img width="350" height="150" img align="center" alt="Harm's TopLang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heliferepo&theme=buefy&hide_border=true&layout=compact&count_private=true" class="responsive"/>
+    </div>
+</div>
+<br/>
+
 
 [Check out also my website Here !](https://helife.digital)
 
