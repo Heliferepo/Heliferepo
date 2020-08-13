@@ -29,7 +29,13 @@
 **I am a Linux enthusiast :**
 - 💻 I made a custom Iso for arch : [download it here](https://files.norech.com/iso/nolife/whythis/WhyThis_1.0-2020.08.03-x86_64.iso) or check the source code below
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Heliferepo&repo=whythis.iso)](https://github.com/Heliferepo/whythis.iso)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Heliferepo&repo=whythis.iso&theme=buefy&hide_border=true)](https://github.com/Heliferepo/whythis.iso)
+
+- 🌁 Some useful shell scripts
+
+> Scripts are going to be downloadable with curl like that `curl -LO helife.digital/scripts/filename` go take a look at it
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Heliferepo&repo=mattisdalleau.github.io&theme=buefy&hide_border=true)](https://github.com/Heliferepo/mattisdalleau.github.io)
 
 - 🌍 I also intend to become the first maintainer of a Arch mirror at Reunion Island in the few months
 - 💾 If you want me to work on a UNIX / Linux tty I can do so (as long as I have vim to edit text)</br>
