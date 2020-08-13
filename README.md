@@ -3,7 +3,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/Heliferepo?label=Follow&style=social)
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-192-blue)
 
-<img align='right' src="https://i.pinimg.com/originals/30/23/83/302383c530b39f5a65f11b4ef986e3ce.gif">**About me :**
+<img align='right' src="https://i.pinimg.com/originals/30/23/83/302383c530b39f5a65f11b4ef986e3ce.gif" width="450">**About me :**
 - ✨I'm a student willing to become a software engineer
 - 📘Currently I am a student at [@Epitech](https://www.epitech.eu/)
 
