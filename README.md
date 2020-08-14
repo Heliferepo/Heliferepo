@@ -5,7 +5,7 @@
 <h2>Hello, I'm Mattis DALLEAU</h2>
 
 ![GitHub followers](https://img.shields.io/github/followers/Heliferepo?label=Follow&style=social)
-![Profile Views](http://img.shields.io/badge/Profile%20Views-192-blue)
+
 
 [<img align="left" alt="Heliferepo | Github" width="22px" src="https://image.flaticon.com/icons/svg/733/733553.svg" />][github]
 [<img align="left" alt="Heliferepo | Email" width="22px" src="https://image.flaticon.com/icons/svg/732/732200.svg" />][gmail]
@@ -61,13 +61,13 @@
 
 **My GitHub Data :** 
 
-> 🏆 +686 Contributions in year 2020 
+> 🏆 +669 Contributions in year 2020 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 9 Public Repositories 
+> 📜 10 Public Repositories 
  > 
-> 🔑 12 Owned Private Repositories 
+> 🔑 11 Owned Private Repositories 
  >
 > 📝 Added and deleted approximately 600.000 lines of code since I started Github
  >
