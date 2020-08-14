@@ -75,10 +75,10 @@
 
 <div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
     <div style="display: inline-block;">
-        <img width="450" height="150" img align="left" alt="Harm's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Heliferepo&theme=buefy&show_icons=true&count_private=true&hide_border=true&hide=issues" class="responsive" />
+        <img width="450" height="150" img align="left" alt="Harm's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Heliferepo&theme=buefy&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&hide=issues" class="responsive" />
     </div>
     <div style="display: inline-block;">
-        <img width="350" height="150" img align="center" alt="Harm's TopLang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heliferepo&theme=buefy&hide_border=true&layout=compact&count_private=true" class="responsive"/>
+        <img width="350" height="150" img align="center" alt="Harm's TopLang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heliferepo&theme=buefy&hide_border=true&layout=compact&count_private=true&hide=html, css, perl" class="responsive"/>
     </div>
 </div>
 <br/>
