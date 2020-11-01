@@ -61,13 +61,13 @@
 
 **My GitHub Data :** 
 
-> 🏆 +669 Contributions in year 2020 
+> 🏆 +1.1k Contributions in year 2020 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 10 Public Repositories 
+> 📜 11 Public Repositories 
  > 
-> 🔑 11 Owned Private Repositories 
+> 🔑 11 Owned Private Repositories
  >
 > 📝 Added and deleted approximately 600.000 lines of code since I started Github
  >
