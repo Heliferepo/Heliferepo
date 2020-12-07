@@ -29,14 +29,14 @@
 **I am a Linux enthusiast :**
 - 💻 I made a custom Iso for arch : [download it here](https://files.norech.com/iso/nolife/whythis/WhyThis_1.0-2020.08.03-x86_64.iso) or check the source code below
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Heliferepo&repo=whythis.iso&theme=buefy&hide_border=true)](https://github.com/Heliferepo/whythis.iso)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Heliferepo&repo=whythis.iso&theme=radical&hide_border=false)](https://github.com/Heliferepo/whythis.iso)
 
 **Take a look at my C projects !**
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Heliferepo&repo=bistromatic&theme=buefy&hide_border=true)](https://github.com/Heliferepo/bistromatic)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Heliferepo&repo=Lodeus-Variadic-Lists&theme=buefy&hide_border=true)](https://github.com/Heliferepo/Lodeus-Variadic-Lists)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Heliferepo&repo=my_printf&theme=buefy&hide_border=true)](https://github.com/Heliferepo/my_printf)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Heliferepo&repo=HelOS&theme=buefy&hide_border=true)](https://github.com/Heliferepo/HelOS)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Heliferepo&repo=bistromatic&theme=radical&hide_border=false)](https://github.com/Heliferepo/bistromatic)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Heliferepo&repo=Lodeus-Variadic-Lists&theme=radical&hide_border=false)](https://github.com/Heliferepo/Lodeus-Variadic-Lists)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Heliferepo&repo=my_printf&theme=radical&hide_border=false)](https://github.com/Heliferepo/my_printf)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Heliferepo&repo=HelOS&theme=radical&hide_border=false)](https://github.com/Heliferepo/HelOS)
 
 - 🌍 I also intend to become the first maintainer of a Arch mirror at Reunion Island in the few months
 - 💾 If you want me to work on a UNIX / Linux tty I can do so (as long as I have vim to edit text)</br>
@@ -76,10 +76,10 @@
 
 <div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
     <div style="display: inline-block;">
-        <img width="450" height="150" img align="left" alt="Harm's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Heliferepo&theme=buefy&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&hide=issues" class="responsive" />
+        <img width="450" height="150" img align="left" alt="Harm's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Heliferepo&theme=radical&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&hide=issues" class="responsive" />
     </div>
     <div style="display: inline-block;">
-        <img width="350" height="150" img align="center" alt="Harm's TopLang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heliferepo&theme=buefy&hide_border=true&layout=compact&count_private=true" class="responsive"/>
+        <img width="350" height="150" img align="center" alt="Harm's TopLang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heliferepo&theme=radical&hide_border=false&layout=compact&count_private=true" class="responsive"/>
     </div>
 </div>
 <br/>
