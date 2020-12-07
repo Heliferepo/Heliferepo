@@ -31,11 +31,12 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Heliferepo&repo=whythis.iso&theme=buefy&hide_border=true)](https://github.com/Heliferepo/whythis.iso)
 
-- 🌁 Some useful shell scripts
+**Take a look at my C projects !**
 
-> Scripts are going to be downloadable with curl like that `curl -LO helife.digital/scripts/filename` go take a look at it
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Heliferepo&repo=mattisdalleau.github.io&theme=buefy&hide_border=true)](https://github.com/Heliferepo/mattisdalleau.github.io)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Heliferepo&repo=bistromatic&theme=buefy&hide_border=true)](https://github.com/Heliferepo/bistromatic)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Heliferepo&repo=Lodeus-Variadic-Lists&theme=buefy&hide_border=true)](https://github.com/Heliferepo/Lodeus-Variadic-Lists)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Heliferepo&repo=my_printf&theme=buefy&hide_border=true)](https://github.com/Heliferepo/my_printf)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Heliferepo&repo=HelOS&theme=buefy&hide_border=true)](https://github.com/Heliferepo/HelOS)
 
 - 🌍 I also intend to become the first maintainer of a Arch mirror at Reunion Island in the few months
 - 💾 If you want me to work on a UNIX / Linux tty I can do so (as long as I have vim to edit text)</br>
