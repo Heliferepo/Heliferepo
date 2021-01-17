@@ -63,7 +63,7 @@
 
 **My GitHub Data :** 
 
-> 🏆 +1.4k Contributions in year 2020 
+> 🏆 +1.6k Contributions
  > 
 > 💼 Opted to Hire
  > 
