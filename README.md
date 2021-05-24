@@ -34,7 +34,6 @@
 **Take a look at my C projects !**
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Heliferepo&repo=bistromatic&theme=radical&hide_border=false)](https://github.com/Heliferepo/bistromatic)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Heliferepo&repo=Lodeus-Variadic-Lists&theme=radical&hide_border=false)](https://github.com/Heliferepo/Lodeus-Variadic-Lists)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Heliferepo&repo=LibErty&theme=radical&hide_border=false)](https://github.com/Heliferepo/LibErty)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Heliferepo&repo=HelOS&theme=radical&hide_border=false)](https://github.com/Heliferepo/HelOS)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Heliferepo&repo=my_runner&theme=radical&hide_border=false)](https://github.com/Heliferepo/my_runner)
