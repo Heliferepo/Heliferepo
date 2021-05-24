@@ -18,7 +18,7 @@
 
 - ✨ I'm a student willing to become a software engineer
 - 📘 Currently I am a student at [@Epitech](https://www.epitech.eu/)
-- 💻 I'm learning C++, C, JS, Python, VimScript and Shell Scripting
+- 💻 I'm learning C++, C, Assembly, JS, Python and Rust
 - ⚡ Aside of programming I love: Piano, Guitar, accordeon, Horseback riding, Drawing etc...
 - 🥅 My goals for 2020 is to higly improve as a programmer and to contribute a lot to projects
 
