@@ -79,9 +79,6 @@
 
 [![Sparkline](https://stars.medv.io/Heliferepo/badges.svg)](https://stars.medv.io/Heliferepo/badges)
 
-
-[Check out also my website Here !](https://helife.digital)
-
 Thank you for reading all of this :heart:
 
 ```
